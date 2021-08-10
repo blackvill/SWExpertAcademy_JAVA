@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Solution_D2_1204_김재욱 {
+public class Solution_D2_1204 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		System.setIn(new FileInputStream("res/input_1204.txt"));

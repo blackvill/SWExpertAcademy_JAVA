@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  * 4. 바뀌는 개수 count++
  * 
  */
-public class Solution_D4_7208_김재욱2 {
+public class Solution_D4_7208 {
 	
 	static int N;			//국가 숫자 
 	static int map[][];		//인접 국가 위치 

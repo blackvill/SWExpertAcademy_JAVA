@@ -2,7 +2,7 @@ package swet;
 
 import java.util.Scanner;
 
-public class Solution_D2_1954_김재욱 {
+public class Solution_D2_1954 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

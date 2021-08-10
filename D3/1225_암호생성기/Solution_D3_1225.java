@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_D3_1225_김재욱 {
+public class Solution_D3_1225 {
 	static int T;
 	static int count;
 	public static void main(String[] args) throws NumberFormatException, IOException {

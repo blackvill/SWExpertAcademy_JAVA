@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution_test_1952_김재욱 {
+public class Solution_test_1952 {
 
 	static int[] cost = new int[4]; // 비용을 담을 배열 
 	static int[] day = new int[12]; // 매달 몇일을 가는지

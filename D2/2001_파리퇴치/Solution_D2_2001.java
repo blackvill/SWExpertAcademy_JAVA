@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Solution_D2_2001_김재욱 {
+public class Solution_D2_2001 {
 
 	static int[][] map;
 	

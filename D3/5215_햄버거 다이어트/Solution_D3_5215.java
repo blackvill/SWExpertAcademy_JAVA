@@ -3,7 +3,7 @@ package swet;
 import java.io.FileInputStream;
 import java.util.Scanner;
 
-public class Solution_D3_5215_김재욱 {
+public class Solution_D3_5215 {
 
 //	static int numbers[];
 	static int result[];

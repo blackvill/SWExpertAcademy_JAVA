@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Solution_D4_1218_김재욱 {
+public class Solution_D4_1218 {
 	static int length;
 	static String str;
 	static char c;
